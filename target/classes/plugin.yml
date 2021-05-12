@@ -1,0 +1,6 @@
+name: BetterTnt
+version: 1.0
+main: me.bettertnt.me.jozo.Me.BetterTNT
+api-version: 1.16
+authors: [ Jozo ]
+description: BetterTnt
